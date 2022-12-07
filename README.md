@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdullatif-Eida
-- 👀 A Patient person who wants to develop himself as a programmer, front and backend programmer and I have the ability to speak in three languages Arabic, Turkish and English. I hold a degree in physics and mathematics from the Future Scholars Center in Istanbul, a Level 2 and HND certificate from British higher education, a Turkish High school certificate and I can deal with C# and ASP.Net, Flutter and Dart, Databases, Microsoft Project, Microsoft SQL Server and Python: Django
+- 👀 With more than two years of experience and good time management abilities, I can develop mobile applications in a flexible manner. I have a proven ability to work well with clients, solid problem-solving skill, and teamwork experience. I have a constant appetite for knowledge and new endeavours with a lot of practical and academical experience because of my studies in UK. Additionally, I am familiar with different programming languages such as React JS, python, C# and java.
 - 🥅 I want to complete my bachelor's degree in UK (University of Derby), and I want to learn a new programing languages and skills and expand my programming skills by learning PHP and develop myself s in Dart and Flutter.
 - 🌱 I’m currently learning firebase, Flutter and Dart.
 - 💞️ I’m looking to collaborate on University Of Derby
