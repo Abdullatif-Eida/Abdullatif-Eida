@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @Abdullatif-Eida
-- 👀 With more than two years of experience and good time management abilities, I can develop mobile applications in a flexible manner. I have a proven ability to work well with clients, solid problem-solving skill, and teamwork experience. I have a constant appetite for knowledge and new endeavours with a lot of practical and academical experience because of my studies in UK. Additionally, I am familiar with different programming languages such as React JS, python, C# and java.
-- 🥅 I want to complete my bachelor's degree in UK (University of Derby), and I want to learn a new programing languages and skills and expand my programming skills by learning PHP and develop myself s in Dart and Flutter.
-- 🌱 I’m currently learning firebase, Flutter and Dart.
-- 💞️ I’m looking to collaborate on University Of Derby
-- 📫 How to reach me by email:mhdabdullatif2016@gmail.com - or website:https://abdullatifeida.netlify.app/index.html
+# Hi, I’m @Abdullatif Eida 👋
+ 
+<img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Abdullatif-Eida&theme=react&show_icons=true&theme=radical"/>
+ 
+ <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullatif-Eida&hide_progress=true"/>
 
-<!---
-Abdullatif-Eida/Abdullatif-Eida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
